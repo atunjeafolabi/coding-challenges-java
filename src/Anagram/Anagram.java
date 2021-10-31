@@ -8,8 +8,8 @@ import java.util.Scanner;
  * An anagram is a word or phrase that can be re-arranged to form another word
  * e.g cinema and iceman
  *
- * The main idea is to validate the length of strings and then if found equal,
- * convert the string to char array and then sort the arrays and check if both are equal.
+ * The main idea is to validate the length of the strings and then if found equal,
+ * convert the strings to char arrays, then sort the arrays and check if both are equal.
  */
 public class Anagram {
 
